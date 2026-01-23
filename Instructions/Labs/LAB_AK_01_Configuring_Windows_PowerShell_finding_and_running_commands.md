@@ -7,6 +7,8 @@ lab:
 
 # Configuring Windows PowerShell, and finding and running commands
 
+This exercise should take approximately **60** minutes to complete. <!-- update with estimated duration -->
+
 ## Exercise 1: Configuring the Windows PowerShell console application
 
 ### Task 1: Start the console application as Administrator, and pin the Windows PowerShell icon to the taskbar
