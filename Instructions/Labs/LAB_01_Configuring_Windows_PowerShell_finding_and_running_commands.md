@@ -6,6 +6,8 @@ lab:
 
 # Lab: Configuring Windows PowerShell, and finding and running commands
 
+This exercise should take approximately **60** minutes to complete. <!-- update with estimated duration -->
+
 ## WWL Tenants - Terms of Use
 
 If you are being provided with a tenant as a part of an instructor-led training delivery, please note that the tenant is made available for the purpose of supporting the hands-on labs in the instructor-led training. 
