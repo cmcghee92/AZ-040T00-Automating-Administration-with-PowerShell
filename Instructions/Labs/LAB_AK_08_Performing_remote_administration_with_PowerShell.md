@@ -7,6 +7,8 @@ lab:
 
 # Performing remote administration with PowerShell
 
+This lab should take approximately **60** minutes to complete.
+
 ## Exercise 1: Enabling remoting on the local computer
 
 ### Task 1: Enable remoting for incoming connections

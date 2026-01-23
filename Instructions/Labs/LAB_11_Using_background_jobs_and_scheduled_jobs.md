@@ -6,6 +6,8 @@ lab:
 
 # Lab: Jobs management with PowerShell
 
+This lab should take approximately **15** minutes to complete.
+
 ## Scenario
 
 Background jobs provide a useful way to run multiple commands simultaneously and long-running commands in the background. In this lab, you'll learn to create and manage two of the three basic kinds of jobs.
@@ -18,8 +20,6 @@ After completing this lab, you'll be able to:
 
 - Start and manage jobs.
 - Create a scheduled job.
-
-### Estimated time: 30 minutes
 
 ## Lab Setup
 

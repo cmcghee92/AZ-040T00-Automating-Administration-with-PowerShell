@@ -7,6 +7,8 @@ lab:
 
 # Using variables, arrays, and hash tables in PowerShell
 
+This lab should take approximately **45** minutes to complete.
+
 ## Exercise 1: Working with variable types
 
 ### Task 1: Use string variables

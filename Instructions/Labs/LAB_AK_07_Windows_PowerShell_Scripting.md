@@ -7,6 +7,8 @@ lab:
 
 # Using scripts with PowerShell
 
+This lab should take approximately **150** minutes to complete.
+
 ## Exercise 1: Signing a script
 
 ### Task 1: Install a code signing certificate

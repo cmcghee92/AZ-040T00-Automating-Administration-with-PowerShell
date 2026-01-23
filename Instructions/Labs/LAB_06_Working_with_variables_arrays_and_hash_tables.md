@@ -6,6 +6,8 @@ lab:
 
 # Lab: Using variables, arrays, and hash tables in PowerShell
 
+This lab should take approximately **45** minutes to complete.
+
 ## Scenario
 
 You're preparing to create scripts to automate server administration in your organization. Before you begin, you want to practice working with variables, arrays, and hash tables.
@@ -17,8 +19,6 @@ After completing this lab, you'll be able to:
 - Work with variable types.
 - Use arrays.
 - Use hash tables.
-
-## Estimated time: 45 minutes
 
 ## Lab setup
 

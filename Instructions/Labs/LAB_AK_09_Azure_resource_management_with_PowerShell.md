@@ -7,6 +7,8 @@ lab:
 
 # Azure resource management with PowerShell
 
+This lab should take approximately **60** minutes to complete.
+
 ## Exercise 1: Activating the Azure subscription and installing the PowerShell Az module
 
 #### Task 1: Open the Azure portal

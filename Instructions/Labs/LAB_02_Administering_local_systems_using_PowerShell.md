@@ -6,6 +6,8 @@ lab:
 
 # Lab: Performing local system administration with PowerShell
 
+This lab should take approximately **60** minutes to complete.
+
 ## Scenario
 
 You work for Adatum Corporation on the server support team. One of your first assignments is to configure the infrastructure service for a new branch office. You decide to complete the tasks by using Windows PowerShell.
@@ -17,8 +19,6 @@ After completing this lab, you'll be able to:
 - Create and manage Active Directory objects by using Windows PowerShell.
 - Configure network settings on Windows Server by using Windows PowerShell.
 - Create an Internet Information Services (IIS) website by using Windows PowerShell.
-
-## Estimated time: 60 minutes
 
 ## Lab setup
 

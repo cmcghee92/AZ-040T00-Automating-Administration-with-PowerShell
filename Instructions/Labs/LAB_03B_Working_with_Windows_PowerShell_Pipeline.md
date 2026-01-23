@@ -6,6 +6,8 @@ lab:
 
 # Lab: Using PowerShell pipeline
 
+This lab should take approximately **60** minutes to complete.
+
 ## Scenario
 
 One of your administrative tasks at Adatum Corporation is to configure advanced PowerShell scripts. You need to ensure that you understand the foundations of working with PowerShell pipeline by sorting, filtering, enumerating, and converting objects.
@@ -16,8 +18,6 @@ After completing this lab, you'll be able to:
 
 - Enumerate pipeline objects by using basic and advanced syntax.
 - Convert objects to different formats.
-
-## Estimated Time: 60 minutes
 
 ## Lab setup
 

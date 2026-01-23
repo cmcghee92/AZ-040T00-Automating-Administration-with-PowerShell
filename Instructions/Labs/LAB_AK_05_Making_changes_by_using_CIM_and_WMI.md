@@ -7,6 +7,8 @@ lab:
 
 # Querying information by using WMI and CIM
 
+This lab should take approximately **45** minutes to complete.
+
 ## Exercise 1: Querying information by using WMI
 
 ### Task 1: Query IP addresses

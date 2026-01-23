@@ -6,6 +6,8 @@ lab:
 
 # Lab: Azure resource management with PowerShell
 
+This lab should take approximately **60** minutes to complete.
+
 ## Scenario
 
 You're a system administrator for the London branch office of Adatum Corporation. You need to evaluate the Microsoft Azure platform to run virtual machines (VMs) and other resources for your company. As part of your evaluation, you also want to test PowerShell administration of Azure-based resources.
@@ -17,8 +19,6 @@ After completing this lab, you'll be able to:
 - Install the Az module for Windows PowerShell.
 - Run and use the Azure Cloud Shell environment.
 - Manage Azure VMs and disks by using PowerShell.
-
-## Estimated time: 60 minutes
 
 ## Lab setup
 

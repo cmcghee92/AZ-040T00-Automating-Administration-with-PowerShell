@@ -6,7 +6,7 @@ lab:
 
 # Lab: Configuring Windows PowerShell, and finding and running commands
 
-This exercise should take approximately **60** minutes to complete. <!-- update with estimated duration -->
+This lab should take approximately **60** minutes to complete.
 
 ## WWL Tenants - Terms of Use
 
@@ -28,10 +28,6 @@ After completing this lab, you'll be able to:
 - Open and configure the Windows PowerShell ISE application.
 - Find and run Windows PowerShell commands.
 - Use Windows PowerShell Help and About topics to learn new shell concepts and techniques.
-
-## Estimated time
-
-60 minutes
 
 ## Lab setup
 

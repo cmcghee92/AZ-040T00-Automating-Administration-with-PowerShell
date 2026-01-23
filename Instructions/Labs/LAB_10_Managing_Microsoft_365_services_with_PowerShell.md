@@ -6,6 +6,8 @@ lab:
 
 # Lab: Managing Microsoft 365 with PowerShell
 
+This lab should take approximately **60** minutes to complete.
+
 ## Scenario
 
 You've created a new Microsoft 365 tenant. As a new administrator, you want to try using PowerShell to manage some of the Microsoft 365 services before you start deploying them to users.
@@ -18,8 +20,6 @@ After completing this lab, you'll be able to:
 - Manage Exchange Online.
 - Manage SharePoint Online.
 - Manage Microsoft Teams.
-
-## Estimated time: 60 minutes
 
 ## Lab Setup
 

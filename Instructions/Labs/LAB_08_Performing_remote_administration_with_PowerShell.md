@@ -6,6 +6,8 @@ lab:
 
 # Lab: Performing remote administration with PowerShell
 
+This lab should take approximately **60** minutes to complete.
+
 ## Scenario
 
 You're an administrator for Adatum Corporation and must perform maintenance tasks on a server running Windows Server 2019. You don't have physical access to the server, and instead plan to perform the tasks using Windows PowerShell remoting. You also have some tasks to perform on both a server and another client computer that runs Windows 10. In your environment, communication protocols such as remote procedure call (RPC) are blocked between your local computer and the servers. You plan to use Windows PowerShell remoting, and want to use sessions to provide persistence and reduce the setup and cleanup overhead that improvised remoting connections will impose.
@@ -19,8 +21,6 @@ After completing this lab, you'll be able to:
 - Run a task on two computers by using one-to-many remoting.
 - Create and manage PSSessions.
 - Send commands to multiple computers in parallel.
-
-## Estimated time: 60 minutes
 
 ## Lab Setup
 

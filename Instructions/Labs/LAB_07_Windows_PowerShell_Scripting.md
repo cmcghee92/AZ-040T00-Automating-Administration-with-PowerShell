@@ -6,6 +6,8 @@ lab:
 
 # Lab: Using scripts with PowerShell
 
+This lab should take approximately **150** minutes to complete.
+
 ## Scenario
 
 You've started to develop Windows PowerShell scripts to simplify administration in your organization. There are multiple tasks to accomplish, and you'll create a Windows PowerShell script for each one.
@@ -20,8 +22,6 @@ After completing this lab, you'll be able to:
 - Create user accounts based on a CSV file.
 - Query disk information from remote computers.
 - Update a script to use alternate credentials.
-
-## Estimated time: 150 minutes
 
 ## Lab setup
 

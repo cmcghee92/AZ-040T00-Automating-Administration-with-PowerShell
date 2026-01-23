@@ -7,6 +7,8 @@ lab:
 
 # Managing Microsoft 365 with PowerShell
 
+This lab should take approximately **60** minutes to complete.
+
 ## Exercise 1: Managing users and groups in Microsoft Entra ID
 
 ### Task 1: Connect to Microsoft Entra ID

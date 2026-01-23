@@ -6,6 +6,8 @@ lab:
 
 # Lab: Using PSProviders and PSDrives with PowerShell
 
+This lab should take approximately **30** minutes to complete.
+
 ## Scenario
 
 You're a system administrator for the London branch office of Adatum Corporation. You must reconfigure several settings in your environment. You've recently learned about PSProviders and PSDrives, and that you can use them to access data stores. You've decided to use PSDrives to reconfigure these settings.
@@ -17,8 +19,6 @@ After completing this lab, you'll be able to:
 - Use a PSDrive to create files and folders.
 - Create registry keys and values.
 - Use a PSDrive to create and view Active Directory objects.
-
-## Estimated time: 30 minutes
 
 ## Lab setup
 

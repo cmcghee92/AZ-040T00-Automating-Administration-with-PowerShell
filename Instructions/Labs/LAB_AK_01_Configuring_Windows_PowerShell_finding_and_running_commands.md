@@ -7,7 +7,7 @@ lab:
 
 # Configuring Windows PowerShell, and finding and running commands
 
-This exercise should take approximately **60** minutes to complete. <!-- update with estimated duration -->
+This lab should take approximately **60** minutes to complete.
 
 ## Exercise 1: Configuring the Windows PowerShell console application
 

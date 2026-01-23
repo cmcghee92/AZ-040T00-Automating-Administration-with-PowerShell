@@ -7,6 +7,8 @@ lab:
 
 # Using PowerShell pipeline
 
+This lab should take approximately **60** minutes to complete.
+
 ## Exercise 1: Selecting, sorting, and displaying data using Powershell Binding
 
 ### Task 1: Display the current day of the year

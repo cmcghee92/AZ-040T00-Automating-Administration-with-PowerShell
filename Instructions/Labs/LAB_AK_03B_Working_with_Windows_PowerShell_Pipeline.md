@@ -7,6 +7,8 @@ lab:
 
 # Using PowerShell pipeline
 
+This lab should take approximately **60** minutes to complete.
+
 ## Exercise 1: Enumerating objects
 
 ### Task 1: Display a list of files on drive E of your computer

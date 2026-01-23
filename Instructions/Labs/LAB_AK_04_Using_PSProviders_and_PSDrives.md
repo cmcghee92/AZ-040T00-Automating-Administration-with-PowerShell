@@ -7,6 +7,8 @@ lab:
 
 # Using PSProviders and PSDrives with PowerShell
 
+This lab should take approximately **30** minutes to complete.
+
 ## Exercise 1: Creating files and folders on a remote computer
 
 ### Task 1: Create a new folder on a remote computer

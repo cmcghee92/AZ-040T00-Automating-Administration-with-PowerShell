@@ -6,6 +6,8 @@ lab:
 
 # Lab: Querying information by using WMI and CIM
 
+This lab should take approximately **45** minutes to complete.
+
 ## Scenario
 
 You have to query management information from several computers. You start by querying the information from your local computer and from one test computer in your environment.
@@ -17,8 +19,6 @@ After completing this lab, you'll be able to:
 - Query information by using Windows Management Instrumentation (WMI) commands.
 - Query information by using Common Information Model (CIM) commands.
 - Invoke methods by using WMI and CIM commands.
-
-## Estimated time: 45 minutes
 
 ## Lab setup
 

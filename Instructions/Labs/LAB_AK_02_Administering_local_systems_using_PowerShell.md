@@ -7,6 +7,8 @@ lab:
 
 # Performing local system administration with PowerShell
 
+This lab should take approximately **60** minutes to complete.
+
 ## Exercise 1: Creating and managing Active Directory objects
 
 ### Task 1: Create a new organizational unit (OU) for a branch office

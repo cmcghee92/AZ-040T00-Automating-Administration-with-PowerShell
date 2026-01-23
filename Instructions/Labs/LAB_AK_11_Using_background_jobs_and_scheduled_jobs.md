@@ -7,6 +7,8 @@ lab:
 
 # Jobs management with PowerShell
 
+This lab should take approximately **15** minutes to complete.
+
 ## Exercise 1: Starting and managing jobs
 
 ### Task 1: Start a Windows PowerShell remote job
